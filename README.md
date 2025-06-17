@@ -28,5 +28,5 @@ Prompt engineering techniques such as zero shot , few shot, role-giving mechanis
 git clone https://github.com/your-username/Asset-Creation-Agent.git
 touch .env ( put your API key in here )
 OPENAI_API_KEY = sk-proj-..........
-cd project
+cd project2
 python FinalScriptPyndatic.py
