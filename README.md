@@ -8,7 +8,7 @@ Prompt engineering techniques such as zero shot , few shot, role-giving mechanis
 
 /projectTrails folder contains some python files in order to understand concepts of OpenAI API. 
 
-/project folder contains the last pyhton files that we need to run. 
+/project2 folder contains the last pyhton files that we need to run. 
 
 
 ---
